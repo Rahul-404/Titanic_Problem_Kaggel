@@ -168,6 +168,11 @@ catboost_info/learn_error.tsv
 catboost_info/time_left.tsv
 catboost_info/learn/events.out.tfevents
 Dataset/clean_data/clean_train.csv
+<<<<<<< HEAD
 Dataset
 mlruns
 Problem_Solving_Framework
+=======
+Testing Methods/Feature_Selection.ipynb
+Testing Methods
+>>>>>>> 913ff52 (minor changes)

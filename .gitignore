@@ -163,3 +163,8 @@ cython_debug/
 #.idea/
 Dataset/clean_data/clean_train.csv
 Dataset/clean_data/train_data_v1.csv
+catboost_info/catboost_training.json
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+catboost_info/learn/events.out.tfevents
+Dataset/clean_data/clean_train.csv
